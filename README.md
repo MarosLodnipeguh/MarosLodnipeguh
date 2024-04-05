@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/4f811e22-c490-4066-9472-d461c29185de.svg)](https://wakatime.com/@4f811e22-c490-4066-9472-d461c29185de)
+
 <!--
 **MarosLodnipeguh/MarosLodnipeguh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

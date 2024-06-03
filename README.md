@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarosLodnipeguh&layout=compact&theme=dracula)
-<br>
+
 [![wakatime](https://wakatime.com/badge/user/4f811e22-c490-4066-9472-d461c29185de.svg)](https://wakatime.com/@4f811e22-c490-4066-9472-d461c29185de)
 
 

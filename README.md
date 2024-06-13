@@ -11,13 +11,15 @@
 
 <br />
 
-⚒ **...as well as:**
+🔀 **...as well as:**
 
-[![Skills2](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![More Skills](https://skillicons.dev/icons?i=git,postman,html,css,idea,rider,ps)](https://skillicons.dev)
+
+<!-- [![Skills2](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
     <img src='img/icons/SQL.svg' title='SQL' alt='SQL' width='50'>&nbsp;&nbsp;
 [![Skills3](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-    <!-- <img src='img/icons/Swagger.svg' title='Swagger' alt='Swagger' width='50'>&nbsp;&nbsp; -->
-[![Skills4](https://skillicons.dev/icons?i=html,css,idea,rider,ps)](https://skillicons.dev)
+    <img src='img/icons/Swagger.svg' title='Swagger' alt='Swagger' width='50'>&nbsp;&nbsp;
+[![Skills4](https://skillicons.dev/icons?i=html,css,idea,rider,ps)](https://skillicons.dev) -->
 
 <!-- - ENTITY FRAMEWORK
 - mssql

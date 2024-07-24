@@ -9,38 +9,36 @@
 
 ⚒ **The main stack of technologies I use:**
 
-[![Main Skills](https://skillicons.dev/icons?i=java,cs,dotnet,py)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=java,dotnet,py)](https://skillicons.dev)
 
 <br />
 
 🔀 **...as well as:**
 
-[![More Skills](https://skillicons.dev/icons?i=git,postman,html,css,idea,rider,ps)](https://skillicons.dev)
+[![More Skills](https://skillicons.dev/icons?i=git,postman,cs,html,css,flutter,ps)](https://skillicons.dev)
 
-<!-- [![Skills2](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-    <img src='img/icons/SQL.svg' title='SQL' alt='SQL' width='50'>&nbsp;&nbsp;
-[![Skills3](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-    <img src='img/icons/Swagger.svg' title='Swagger' alt='Swagger' width='50'>&nbsp;&nbsp;
-[![Skills4](https://skillicons.dev/icons?i=html,css,idea,rider,ps)](https://skillicons.dev) -->
-
-<!-- - ENTITY FRAMEWORK
+<!-- 
+- sql
+- EF entity framework
+- intellij
+- rider
 - mssql
 - oracle db
 - t-sql, pl/sql
 - swagger
 - rest api
-- java ee
 - json
 - ahk
 - docker?
-- java fx -->
+- java fx 
+-->
 
 <br />
 
-🔬 **My future interests:**
+🔬 **My future learning goals:**
 
-[![Future Skills](https://skillicons.dev/icons?i=spring,kotlin,react)](https://skillicons.dev)
-<!-- dart,flutter -->
+[![Future Skills](https://skillicons.dev/icons?i=spring,react,dart)](https://skillicons.dev)
+
 <br />
 
 

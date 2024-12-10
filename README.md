@@ -9,15 +9,16 @@
 
 ⚒ **The main stack of technologies I use:**
 
-[![Main Skills](https://skillicons.dev/icons?i=java,dotnet,py)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=java,dotnet,py,react,next,bash)](https://skillicons.dev)
 
 <br />
 
 🔀 **...as well as:**
 
-[![More Skills](https://skillicons.dev/icons?i=git,postman,cs,html,css,flutter,ps)](https://skillicons.dev)
+[![More Skills](https://skillicons.dev/icons?i=cs,docker,git,postman,html,css)](https://skillicons.dev)
 
 <!-- 
+- ps
 - sql
 - EF entity framework
 - intellij
@@ -29,7 +30,6 @@
 - rest api
 - json
 - ahk
-- docker?
 - java fx 
 -->
 
@@ -37,7 +37,7 @@
 
 🔬 **My future learning goals:**
 
-[![Future Skills](https://skillicons.dev/icons?i=spring,react,dart)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=spring,flutter,dart)](https://skillicons.dev)
 
 <br />
 

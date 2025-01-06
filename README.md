@@ -15,7 +15,7 @@
 
 🔀 **...as well as:**
 
-[![More Skills](https://skillicons.dev/icons?i=cs,docker,git,postman,html,css)](https://skillicons.dev)
+[![More Skills](https://skillicons.dev/icons?i=cs,docker,git,postman,figma,ps)](https://skillicons.dev)
 
 <!-- 
 - ps

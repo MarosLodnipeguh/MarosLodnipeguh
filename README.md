@@ -9,13 +9,13 @@
 
 ⚒ **The main stack of technologies I use:**
 
-[![Main Skills](https://skillicons.dev/icons?i=spring,java,dotnet,py,react,bash)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=spring,java,py,react,bash)](https://skillicons.dev)
 
 <br />
 
 🔀 **...as well as:**
 
-[![More Skills](https://skillicons.dev/icons?i=cs,docker,git,postman,figma,ps)](https://skillicons.dev)
+[![More Skills](https://skillicons.dev/icons?i=dotnet,cs,docker,git,postman,figma,ps)](https://skillicons.dev)
 
 <!-- 
 - ps

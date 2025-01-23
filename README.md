@@ -9,7 +9,7 @@
 
 ⚒ **The main stack of technologies I use:**
 
-[![Main Skills](https://skillicons.dev/icons?i=java,dotnet,py,react,next,bash)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=spring,java,dotnet,py,react,bash)](https://skillicons.dev)
 
 <br />
 
@@ -37,7 +37,7 @@
 
 🔬 **My future learning goals:**
 
-[![Future Skills](https://skillicons.dev/icons?i=spring,flutter,dart)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
 
 <br />
 

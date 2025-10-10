@@ -9,13 +9,13 @@
 
 ⚒ **The main stack of technologies I use:**
 
-[![Main Skills](https://skillicons.dev/icons?i=spring,java,py,react,bash)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=spring,java,react,ts,postgres,bash,py)](https://skillicons.dev)
 
 <br />
 
 🔀 **...as well as:**
 
-[![More Skills](https://skillicons.dev/icons?i=dotnet,cs,docker,git,postman,figma,ps)](https://skillicons.dev)
+[![More Skills](https://skillicons.dev/icons?i=vite,docker,postman,git,dotnet,figma,ps)](https://skillicons.dev)
 
 <!-- 
 - ps
@@ -37,10 +37,13 @@
 
 🔬 **My future learning goals:**
 
-[![Future Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=kubernetes,terraform,grafana,kotlin,flutter,dart)](https://skillicons.dev)
 
 <br />
 
+---
+
+*Version as of October 10, 2025*
 
 <!-- <div>
     <img style="height: 25px;" src="https://komarev.com/ghpvc/?username=MarosLodnipeguh&label=Profile%20views&color=41B883&style=flat" />

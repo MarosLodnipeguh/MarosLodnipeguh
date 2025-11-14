@@ -6,16 +6,19 @@
 
 <!-- [![wakatime](https://wakatime.com/badge/user/4f811e22-c490-4066-9472-d461c29185de.svg)](https://wakatime.com/@4f811e22-c490-4066-9472-d461c29185de) -->
 
+**Languagues I operate in:**
 
-⚒ **The main stack of technologies I use:**
+[![Langs](https://skillicons.dev/icons?i=java,ts,bash,py)](https://skillicons.dev)
 
-[![Main Skills](https://skillicons.dev/icons?i=spring,java,react,ts,postgres,bash,py)](https://skillicons.dev)
+**The main stack of technologies I use:**
+
+[![Main Skills](https://skillicons.dev/icons?i=spring,vite,react,postgres)](https://skillicons.dev)
 
 <br />
 
-🔀 **...as well as:**
+**...as well as:**
 
-[![More Skills](https://skillicons.dev/icons?i=vite,docker,postman,git,dotnet,figma,ps)](https://skillicons.dev)
+[![More Skills](https://skillicons.dev/icons?i=docker,postman,git,figma)](https://skillicons.dev)
 
 <!-- 
 - ps
@@ -35,7 +38,7 @@
 
 <br />
 
-🔬 **My future learning goals:**
+**My future learning goals:**
 
 [![Future Skills](https://skillicons.dev/icons?i=kubernetes,terraform,grafana,kotlin,flutter,dart)](https://skillicons.dev)
 
@@ -43,7 +46,7 @@
 
 ---
 
-*Version as of October 10, 2025*
+*Version as of November 14, 2025*
 
 <!-- <div>
     <img style="height: 25px;" src="https://komarev.com/ghpvc/?username=MarosLodnipeguh&label=Profile%20views&color=41B883&style=flat" />

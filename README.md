@@ -2,11 +2,11 @@
 
 <!-- <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1500&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=600&height=60&lines=Welcome+to+my+page!"></h1> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarosLodnipeguh&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarosLodnipeguh&layout=compact&theme=dracula)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/4f811e22-c490-4066-9472-d461c29185de.svg)](https://wakatime.com/@4f811e22-c490-4066-9472-d461c29185de) -->
 
-**Languagues I operate in:**
+**Languagues I create in:**
 
 [![Langs](https://skillicons.dev/icons?i=java,ts,bash,py)](https://skillicons.dev)
 

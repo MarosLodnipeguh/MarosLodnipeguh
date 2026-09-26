@@ -1,18 +1,22 @@
-### Hi there 👋
+### Hi there
 
 <!-- <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1500&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=600&height=60&lines=Welcome+to+my+page!"></h1> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarosLodnipeguh&layout=compact&theme=dracula)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MarosLodnipeguh&layout=compact&theme=dracula)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/4f811e22-c490-4066-9472-d461c29185de.svg)](https://wakatime.com/@4f811e22-c490-4066-9472-d461c29185de) -->
 
-**Languagues I create in:**
-
-[![Langs](https://skillicons.dev/icons?i=java,ts,bash,py)](https://skillicons.dev)
-
 **The main stack of technologies I use:**
 
-[![Main Skills](https://skillicons.dev/icons?i=spring,react,vite,postgres,docker)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=react,vite,postgres,kubernetes,docker)](https://skillicons.dev)
+
+**Languages I create in:**
+
+[![Main Skills](https://skillicons.dev/icons?i=ts,py,bash)](https://skillicons.dev)
+
+<!-- 
+**Legacy but I used to love these:**
+[![Main Skills](https://skillicons.dev/icons?i=spring,java)](https://skillicons.dev)
 
 <br />
 
@@ -20,7 +24,7 @@
 
 [![More Skills](https://skillicons.dev/icons?i=postman,git,figma)](https://skillicons.dev)
 
-<!-- 
+
 - ps
 - sql
 - EF entity framework
@@ -40,13 +44,13 @@
 
 **My future learning goals:**
 
-[![Future Skills](https://skillicons.dev/icons?i=kubernetes,terraform,grafana,kotlin,flutter,dart)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=terraform,grafana,kotlin,flutter,dart)](https://skillicons.dev)
 
 <br />
 
 ---
 
-*Version as of January 24, 2026*
+*Version as of September 26, 2026*
 
 <!-- <div>
     <img style="height: 25px;" src="https://komarev.com/ghpvc/?username=MarosLodnipeguh&label=Profile%20views&color=41B883&style=flat" />

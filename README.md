@@ -8,15 +8,17 @@
 
 **The main stack of technologies I use:**
 
-[![Langs](https://skillicons.dev/icons?i=react,vite,postgres,kubernetes,docker)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=react,vite,spring,postgres,kubernetes,docker)](https://skillicons.dev)
 
 **Languages I create in:**
 
-[![Main Skills](https://skillicons.dev/icons?i=ts,py,bash)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=ts,py,bash,java)](https://skillicons.dev)
+
+**My future learning goals:**
+
+[![Future Skills](https://skillicons.dev/icons?i=terraform,grafana,kotlin,flutter,dart)](https://skillicons.dev)
 
 <!-- 
-**Legacy but I used to love these:**
-[![Main Skills](https://skillicons.dev/icons?i=spring,java)](https://skillicons.dev)
 
 <br />
 
@@ -39,12 +41,6 @@
 - ahk
 - java fx 
 -->
-
-<br />
-
-**My future learning goals:**
-
-[![Future Skills](https://skillicons.dev/icons?i=terraform,grafana,kotlin,flutter,dart)](https://skillicons.dev)
 
 <br />
 
